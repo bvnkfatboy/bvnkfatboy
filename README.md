@@ -1,4 +1,4 @@
-<h2 align="left">Sleep Eat Loop.....</h2>
+<h2 align="center">Sleep Eat Loop.....</h2>
 
 ###
 
