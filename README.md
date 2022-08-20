@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bvnkfatboy/bvnkfatboy/main/image_processing20210902-16287-74kili.gif" />
+  <img src="https://raw.githubusercontent.com/bvnkfatboy/bvnkfatboy/main/image_processing20210902-16287-74kili.gif" width="150px" />
 </div>
 
 <div align="center">
