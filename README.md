@@ -9,10 +9,9 @@
 ###
 
 <h4>My Skill</h4>
-* HTML
-* CSS
-* JS
-* PHP
+<ul>
+  <ol>2</ol>
+</ul>
 
 ###
 
