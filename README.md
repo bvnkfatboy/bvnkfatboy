@@ -10,7 +10,7 @@
 
 <h4>My Skill</h4>
 <ul>
-  <ol>2</ol>
+  <li>2</li>
 </ul>
 
 ###
