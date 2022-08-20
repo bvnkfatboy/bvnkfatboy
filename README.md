@@ -8,10 +8,13 @@
 
 ###
 
-<h4>My Skill</h4>
+<div align="center">
+  <h4>My Skill</h4>
 <ul>
   <li>2</li>
 </ul>
+</div>
+
 
 ###
 
