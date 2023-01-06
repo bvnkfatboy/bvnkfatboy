@@ -4,9 +4,6 @@
 Frontend Developer , Photographer <br>
 Studying ICT (Game and Multimedia) At Ubon Ratchathani University<br>
 
-<br>
-
-
 <h3 style="margin:0;padding:0;"><b>Tech Stack:</b></h3> 
 
 #
