@@ -3,7 +3,7 @@
 <h3 style="margin:0;padding:0;"><b>Hi I'm Bank Theerapong</b></h3> 
 Frontend Developer , Photographer <br>
 Studying ICT (Game and Multimedia) At Ubon Ratchathani University<br>
-<h3 style="margin:0;padding:0;"><b>Portfolio:</b></h3>https://bvnkfatboy.github.io/portfolio/><br>
+Portfolio: https://bvnkfatboy.github.io/portfolio/ <br>
 
 # <h3 style="margin:0;padding:0;"><b>Tech Stack:</b></h3> 
 
