@@ -1,5 +1,5 @@
 
-<img src="banner.png" style="margin-left:auto;margin-right:auto;display:block;"> <br>
+<img src="https://i.imgur.com/8vb8ZeI.png" style="margin-left:auto;margin-right:auto;display:block;"> <br>
 <h3 style="margin:0;padding:0;"><b>Hi I'm Bank Theerapong</b></h3> 
 Frontend Developer , Photographer <br>
 Studying ICT (Game and Multimedia) At Ubon Ratchathani University<br>
